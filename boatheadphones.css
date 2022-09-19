@@ -1,0 +1,294 @@
+.boatheadphones-container {
+  min-height: 100%;
+}
+.boatheadphones-boatheadphones {
+  width: 100%;
+  height: 508px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 885px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(30, 30, 30, 1);
+}
+.boatheadphones-backgroundoverlay {
+  top: 0px;
+  left: 0px;
+  width: 459px;
+  height: 508px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.boatheadphones-bachgroundoverlayfx {
+  top: 177px;
+  left: -292px;
+  width: 631px;
+  height: 566px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.boatheadphones-text {
+  top: 5px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 142px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Sans Thai;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text01 {
+  color: rgba(255, 255, 255, 1);
+}
+.boatheadphones-text02 {
+  color: rgba(195, 15, 15, 1);
+}
+.boatheadphones-headphones1 {
+  top: 26px;
+  left: 6px;
+  width: 56px;
+  height: 51px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.boatheadphones-text04 {
+  top: 39px;
+  left: 521px;
+  color: rgba(255, 255, 255, 1);
+  width: 349px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: IBM Plex Sans Thai;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text05 {
+  top: 171px;
+  left: 45px;
+  color: rgba(255, 255, 255, 1);
+  width: 370px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text06 {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 400;
+}
+.boatheadphones-rectangle1 {
+  left: 106px;
+  width: 192px;
+  bottom: 70px;
+  height: 38px;
+  position: absolute;
+  box-sizing: border-box;
+  border-color: transparent;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.boatheadphones-text08 {
+  left: 133px;
+  color: rgba(255, 255, 255, 1);
+  width: 132px;
+  bottom: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text10 {
+  top: 209px;
+  left: 486px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text12 {
+  top: 335px;
+  left: 738px;
+  color: rgba(255, 255, 255, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text14 {
+  top: 334px;
+  left: 607px;
+  color: rgba(255, 255, 255, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text16 {
+  top: 334px;
+  left: 501px;
+  color: rgba(255, 255, 255, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text21 {
+  top: 207px;
+  left: 738px;
+  color: rgba(255, 255, 255, 1);
+  width: 118px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text23 {
+  top: 208px;
+  left: 615px;
+  color: rgba(255, 255, 255, 1);
+  width: 96px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.boatheadphones-text28 {
+  top: 482px;
+  left: 595px;
+  color: rgba(255, 255, 255, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inria Sans;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+@media(max-width: 991px) {
+  .boatheadphones-text04 {
+    top: 39px;
+    color: rgb(255, 255, 255);
+    right: 73px;
+    font-size: 12px;
+    font-family: IBM Plex Sans Thai;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+}
